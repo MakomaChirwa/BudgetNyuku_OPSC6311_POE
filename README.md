@@ -8,9 +8,13 @@ it makes financial management engaging and effective.
 
 BudgetNyuku's Key Highlights are that the app is:
 100% Offline - All data stored locally using SQLite
+
 No Subscriptions - Completely free to use
+
 Privacy Focused - Your data never leaves your device
+
 Gamified Experience - Earn points and badges for good financial habits
+
 Multi-Currency Support - Switch between 7 different currencies
 
 ## Features
