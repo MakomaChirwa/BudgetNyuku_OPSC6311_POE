@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etGoalName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Goal Name (e.g. Vacation)"
+        android:inputType="textCapWords" />
+
+    <EditText
+        android:id="@+id/etTargetAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Target Amount"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="12dp" />
+
+    <EditText
+        android:id="@+id/etDeadline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Deadline Date"
+        android:focusable="false"
+        android:clickable="true"
+        android:layout_marginTop="12dp" />
+
+</LinearLayout>

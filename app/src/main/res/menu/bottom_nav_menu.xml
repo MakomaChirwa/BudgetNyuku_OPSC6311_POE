@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:title="Dashboard"
+        android:icon="@android:drawable/ic_menu_today" />
+
+    <item
+        android:id="@+id/nav_add_transaction"
+        android:title="Add"
+        android:icon="@android:drawable/ic_menu_add" />
+
+    <item
+        android:id="@+id/nav_categories"
+        android:title="Categories"
+        android:icon="@android:drawable/ic_menu_edit" />
+
+    <item
+        android:id="@+id/nav_budget"
+        android:title="Budget"
+        android:icon="@android:drawable/ic_menu_preferences" />
+
+    <item
+        android:id="@+id/nav_goals"
+        android:title="Goals"
+        android:icon="@android:drawable/ic_menu_compass" />
+</menu>
