@@ -220,7 +220,7 @@ This project is licensed under the MIT License.
 
 **Developer:** Keabetswe Mphago
 **Email:** ST10230117@rcconnect.edu.za
-**GitHub:** https://github.com/
+**GitHub:** https://github.com/OagengM
 
 **Developer:** Makoma Chirwa
 **Email:** ST10441086@rcconnect.edu.za
