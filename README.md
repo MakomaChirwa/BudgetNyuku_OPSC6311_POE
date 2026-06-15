@@ -192,7 +192,8 @@ Menu → Notification Settings
 
 ## Screenshots
 
-Screenshots here
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 57" src="https://github.com/user-attachments/assets/5976b2d5-5838-4bff-93fc-2c9c264e9331" />
+
 
 ## Contributors
 
