@@ -193,7 +193,16 @@ Menu → Notification Settings
 ## Screenshots
 
 <img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 57" src="https://github.com/user-attachments/assets/5976b2d5-5838-4bff-93fc-2c9c264e9331" />
-
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 56" src="https://github.com/user-attachments/assets/ded52fcd-3417-4bd6-8202-c30f23eb1cb8" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 56 (1)" src="https://github.com/user-attachments/assets/8671a47f-b1de-494a-9c7d-75aaf0fc22e8" />
+<img width="336" height="1280" alt="WhatsApp Image 2026-06-15 at 18 14 55" src="https://github.com/user-attachments/assets/a908237c-91ea-400a-9e2e-1cad863ec597" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 55 (1)" src="https://github.com/user-attachments/assets/3ee2a377-b6cb-4178-a19c-9306a3a454ba" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 55 (2)" src="https://github.com/user-attachments/assets/e6d281e7-c45f-41ea-9f97-a72ccdb8651d" />
+<img width="720" height="1696" alt="WhatsApp Image 2026-06-15 at 18 14 54" src="https://github.com/user-attachments/assets/da5def01-dbca-4779-b3b6-a02980389369" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 54 (1)" src="https://github.com/user-attachments/assets/990d53a1-2197-4162-bea8-8c33dddc8009" />
+<img width="720" height="1567" alt="WhatsApp Image 2026-06-15 at 18 14 54 (2)" src="https://github.com/user-attachments/assets/e85ee136-2104-4994-8866-e8385bdf7c91" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 53" src="https://github.com/user-attachments/assets/5011b7f2-e961-49a3-b99c-e11565f5809b" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-15 at 18 14 53 (1)" src="https://github.com/user-attachments/assets/4907126f-c66b-46d6-8464-f3b09235bac0" />
 
 ## Contributors
 
