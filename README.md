@@ -20,49 +20,57 @@ Multi-Currency Support - Switch between 7 different currencies
 ## Features
 
 Budget Nyuku's core features include:
+
 1. Expense & Income Tracking
-- Add expenses with amount, category, date, time, and description. Add income entries. Optional photo attachment for receipts.
-Categorize transactions with color-coded categories. Edit and delete transactions
+- The app allows users to add expenses with amount, category, date, time, and description. It also allows users to add income entries and there is an optional photo attachment for receipts. Tha app categorize transactions with color-coded categories and the user can edit and delete transactions
 
 2. Budget Management
-- Set monthly minimum and maximum spending goals. Track spending against budget in real-time.
-Visual progress bar showing budget status. Alerts when exceeding or falling below goals
+- The app allows users to set monthly minimum and maximum spending goals and track spending against budget in real-time.
+The app gives visual progress bar showing budget status and gives alerts when exceeding or falling below goals.
 
 3. Category Management
-- Create custom expense categories. Choose from 8 pre-defined colors for categories. Edit and delete categories. 
-Default categories included for quick start
+- Users are able to create custom expense categories and choose from 8 pre-defined colors for categories. Users can edit and delete categories, default categories included for quick start
 
 4. Goal Tracker
-Create savings goals (vacation, emergency fund, shopping, etc.). Set target amount and deadline. Track progress with visual progress bar. 
-Add savings manually to goals. Automatic rewards when goals are completed
+- Users can create savings goals (vacation, emergency fund, shopping, etc.) and set target amount and deadline. Users can track progress with visual progress bar and users add savings manually to goals and there are automatic rewards when goals are completed
 
 5. Reporting & Analytics
-Bar chart showing spending by category. Filter by week, month, or year. Category spending breakdown with progress bars. 
-Expense history with date range filtering. Total spending calculations
+- There is a bar chart showing spending by category; filter by week, month, or year. It shows category spending breakdown with progress bars. And expense history with date range filtering and total spending calculations
 
-6. Gamification Features
-Badge Name and How to Earn Points
+6. Gamification Features(Badge Name and How to Earn Points)
+   
 🏆 Budget Hero - Stay within budget for a month - 50 stars
+
 📝 Consistent Logger - Log 5+ expenses in a month - 20 stars
+
 💰 Savings Master	Complete 3+ savings goals	100 stars
+
 🎯 Goal Getter	Reach first savings goal	30 stars
+
 🔥 Streak Keeper	Log expenses 7 days in a row	25 stars
 
 8. Multi-Currency Support(Currency,Code,Symbol,Country Name)
+
 South African Rand,	ZAR,	R,	South Africa
+
 Brazilian Real,	BRL,	R$,	Brazil
+
 Russian Ruble,	RUB,	₽,	Russia
+
 Chinese Yuan,	CNY,	¥,	China
 
-9. Smart Notifications
-Daily reminders to log expenses (customizable time). Budget alerts when approaching limits. 
-Goal completion celebrations. Achievement notifications
+10. Smart Notifications
+-The app gives daily reminders to log expenses (customizable time) and budget alerts when approaching limits. The app gives users goal completion celebrations and achievement notifications
 
-10. Smart Features
+11. Smart Features include:
 Budget Tips: 10+ practical money-saving tips
+
 FAQ Section: Answers to common questions
+
 Points System: Earn points for financial discipline
+
 Badge Collection: Unlock achievements for milestones
+
 Photo Receipts: Attach images to expenses
 
 ## Technologies Used
@@ -80,38 +88,45 @@ Photo Receipts: Attach images to expenses
 - Android Studio
 - Git
 - GitHub
-Charts	MPAndroidChart v3.1.0
-Minimum SDK	API 24 (Android 7.0)
-Target SDK	API 34 (Android 14)
+- MPAndroidChart v3.1.0
 
-Installation
-Usage
-Screenshots
-Contributors
-License
+## Installation
+
+Just
+
+## Usage
+
+hsgvdj
+
+## Screenshots
+
+Screenshots here
 
 ## Contributors
 
 | Name | Role |
 |--------|--------|
-| Your Name | Developer |
-| Team Member | UI/UX Designer |
+| Molebogeng| Developer, UI/UX Designer, Database Designer/ Administrator |
+| Makoma Chirwa | Developer, UI/UX Designer, Database Designer/ Administrator |
+| Keabeteswe  | Developer, UI/UX Designer, Database Designer/ Administrator |
 
----
 
 ## License
 
 This project is licensed under the MIT License.
 
----
-
 ## Contact
 
-**Developer:** Your Name
+**Developer:** Keabetswe
+**Email:** St102
+**GitHub:** https://github.com/MakomaChirwa
+**Developer:** Makoma Chirwa
 **Email:** your.email@example.com
 **GitHub:** https://github.com/MakomaChirwa
+**Developer:** Molebogeng Thupi
+**Email:** ST10349188@rcconnecy.edu.za
+**GitHub:** https://github.com/Lebo0823
 
----
 
 ## Acknowledgements
 
